@@ -10,7 +10,7 @@
 I'm learning at the moment **everything**
 
 
-[![Gmail Badge](https://img.shields.io/badge/-noah.kd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noah.kd@gmail.com)](mailto:noah.kd@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-noah.kd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idonthaveanemail.com)](mailto:idonthaveanemail.com)
 
 ## 🚀💻 Technologies & Tools
 
