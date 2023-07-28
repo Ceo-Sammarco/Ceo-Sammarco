@@ -1,4 +1,4 @@
-### /*    Céo Sammarco   */
+### /* == [ Céo Sammarco ] == == == == == == == == == */
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ceo" alt="ceo" /></p>
 
