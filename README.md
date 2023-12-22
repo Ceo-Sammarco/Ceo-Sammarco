@@ -1,9 +1,9 @@
-### /* == [ Céo Sammarco ] == == == == == == == == == */
+### /* == [ Céo ] == == == == == == == == == */
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ceo" alt="ceo" /></p>
 
 
-<h1 align = "justify"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Anselmo</h1>
+<h1 align = "justify"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Céo</h1>
 <p align = "justify">Full stack Developer, Javascript Python Dart & C# expert. Currently in love with Flutter and React Native Programming.</p>
 
 
